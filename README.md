@@ -14,6 +14,12 @@
 -Create SignUp User Account
 -Implement Sign In user API
 -created Redux Store with userSlice
+-Implemented SignOut feature
+-update profile API call
+-BugFix: SignUp user displayName and profile picture update
+-BugFix:if the user is not logged in redirect/browse to login page and vice-versa
+-unsubsribed to the onAuthStateChanged callback
+-fetch movies from TMDB
 
 -
 
