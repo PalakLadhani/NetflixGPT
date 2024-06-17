@@ -66,8 +66,6 @@ const Login = () => {
             .catch((error) => {
               setErrorMessage(error.message);
             });
-
-          console.log(user);
         })
         .catch((error) => {
           const errorCode = error.code;
@@ -122,6 +120,7 @@ const Login = () => {
           />
         )}
         <input
+          id="email_address"
           ref={email}
           type="text"
           placeholder="Email Address"
@@ -129,6 +128,7 @@ const Login = () => {
         />
 
         <input
+          id="password_user"
           ref={password}
           type="password"
           placeholder="Password"

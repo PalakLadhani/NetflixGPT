@@ -20,6 +20,17 @@
 -BugFix:if the user is not logged in redirect/browse to login page and vice-versa
 -unsubsribed to the onAuthStateChanged callback
 -fetch movies from TMDB
+-Registered TMDB API and create ana app and get acccess token
+
+-Get Data from noe palaying movies list API
+-custom hook now playing movies
+-update the store with movies data
+-create a movie slice
+-planning for main container and secondary conatiner
+-fetch data for trailer video
+-update store with trailor video data
+-Embedded the youtube video nad make it auto play and mute
+-Tailwind classess to make main container look awesome
 
 -
 
