@@ -1,6 +1,6 @@
 import React from "react";
 
-const videoTitle = ({ title, overview }) => {
+const VideoTitle = ({ title, overview }) => {
   return (
     <div className=" w-screen aspect-video pt-[15%] px-24 absolute text-white bg-gradient-to-r from-black">
       <h1 className="text-6xl font-bold">{title}</h1>
@@ -17,4 +17,4 @@ const videoTitle = ({ title, overview }) => {
   );
 };
 
-export default videoTitle;
+export default VideoTitle;

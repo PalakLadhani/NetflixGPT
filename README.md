@@ -31,6 +31,7 @@
 -update store with trailor video data
 -Embedded the youtube video nad make it auto play and mute
 -Tailwind classess to make main container look awesome
+-Build secondary Component
 
 -
 
