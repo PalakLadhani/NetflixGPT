@@ -6,8 +6,7 @@
 -Routing of App
 -Login form
 -sign Up form
--Form Validation(used regex
-)
+-Form Validation(used regex)
 -useRef Hook
 -Firebase Setup
 -Deploying our app to production
@@ -32,6 +31,16 @@
 -Embedded the youtube video nad make it auto play and mute
 -Tailwind classess to make main container look awesome
 -Build secondary Component
+-Build Movie List
+-Build Movie Card
+-TMDB Image CDN URL
+-Made the Browse page amazing with Tailwind CSS
+-usePopularMovies,useUpcomingMovies,useTopRatedMovies hooks
+-Building GPT Search
+-GPT Search Feature
+-GPT Search Page
+-GPT Search Bar
+-(BONUS)Multi-language Feature in our APP
 
 -
 
